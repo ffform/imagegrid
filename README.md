@@ -1,13 +1,11 @@
 # Image Grid
 
-Arranges 8 pictures in a grid of two rows
+Arranges 10 pictures in a grid of two rows
 and four columns.
 
 ## Usage
 
 Throw the `./public` folder into some webserver.
-
-Github is configured to serve it under <https://toabi.github.io/imagegrid/>.
 
 ## Notes
 
