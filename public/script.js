@@ -4,7 +4,7 @@ const fileInput = document.getElementById('fileInput');
 const downloadBtn = document.getElementById('downloadBtn');
 const messageContainer = document.getElementById('message-container');
 
-const MAX_IMAGES = 8;
+const MAX_IMAGES = 10;
 const GRID_MAX_COLS = 4;
 
 let images = [];
